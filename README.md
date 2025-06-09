@@ -1,5 +1,4 @@
-# Proyek Analis Data 
-## Kualitas Udara
+# Proyek Analis Data Kualitas Udara
 
 ## Setup Enviroment
 ```
